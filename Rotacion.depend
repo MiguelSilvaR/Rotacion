@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1602216893 source:/home/toneyglobe/Desktop/grafica/Rotacion/3D_bib.cpp
+	"3D_bib.h"
+	<iostream>
+
+1602202317 /home/toneyglobe/Desktop/grafica/Rotacion/3D_bib.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1602214932 source:/home/toneyglobe/Desktop/grafica/Rotacion/main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"3D_bib.h"
+	<iostream>
+
+1442889364 /home/toneyglobe/Desktop/GLUT/include/GL/glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
